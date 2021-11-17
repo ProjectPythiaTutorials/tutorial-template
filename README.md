@@ -26,7 +26,7 @@ The document tree of our tutorial repositories take the following format:
 ```
 
 Some things to notice:
-- Store any necessary data in a `data` directory across all tutorials. If your dataset is too large for GitHub, make a note of its location and how to access it (both remotely and locally) in your repository's `README.md`
+- Store any necessary data in a `data` directory. If your dataset is too large for GitHub, make a note of its location and how to access it (both remotely and locally) in your repository's `README.md`
 - Within the `tutorials` directory there is a unique directory for every tutorial and a `template` directory, containing a markdown and a notebook template (coming soon). 
 - Each tutorial repository is named with its topic and date with the format `TOPIC_YYYY_MM_DD` (e.g.`pandas_2021_08_03`)
 - If a new tutorial on the same topic is contributed, a new repository with the new date is added (i.e. the pre-existing repository is not edited). 
