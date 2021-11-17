@@ -12,7 +12,7 @@ Within the ProjectPythiaTutorials organization please create a new repository fo
 The tutorial template is designed to give you a brief overview of what is expected of a Project Pythia Tutorial seminar. We hope you find the template a useful reminder of good presentation ideas and bookendsl. It is not designed to be restrictive or time-consuming if you choose to adapt your material to it.
 
 ### 3. Upload your tutorial content.
-Add any relevant `.ipynb` files to the `/tutorials/` directory of your repository and any data to the `/data/` directory (if the data is too large to store on GitHub please indicate this in a `/data/README.md` file).
+Add any relevant `.ipynb` files to the `/tutorials/` directory of your repository and any data to the `/data/` directory (if the data is too large to store on GitHub, i.e. over the 100 MB limit per file, please indicate this in a `/data/README.md` file).
 
 Because we understand that you may be editing your notebook right up until your tutorial, the contribution "barrier for entry" in this repository is lower than elsewhere in the Pythia ecosystem. And since you will only be editing files in your new directory, feel free to push directly without waiting for a review.
 
