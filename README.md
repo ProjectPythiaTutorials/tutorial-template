@@ -34,7 +34,7 @@ Some things to notice:
 - Each tutorial repository is named with its topic and date with the format `TOPIC_YYYY_MM_DD` (e.g.`pandas_2021_08_03`)
 - If a new tutorial on the same topic is contributed, a new repository with the new date is added (i.e. the pre-existing repository is not edited). 
 - Multi-session tutorials may have a repository directory for each session, preserving the state of the tutorial during each lesson (e.g. `matplotlib_part1_YYYY_MM_DD` and `matplotlib_part2_YYYY_MM_DD`), but multiple notebooks may be presented during a single tutorial (and thus housed in the same repository).
-- Each tutorial directory contains a `README.md` file. This `README.md` file should contain all pertinent information that will not be part of the tutorial presentation (e.g. preparation steps, past videos to watch beforehand, and the embedded recording from the tutorial ala the ESDS blog posts). This should mimic the `README_template.md` file within this repository.
+- Each tutorial directory contains a `README.md` file. This `README.md` file should contain all pertinent information that will not be part of the tutorial presentation (e.g. preparation steps, past videos to watch beforehand, and the embedded recording from the tutorial ala the [ESDS blog posts](https://ncar.github.io/esds/blog/)). This should mimic the `README_template.md` file within this repository.
 - There is a single environment file for each tutorial repository.
 
 ## Contribution
