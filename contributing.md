@@ -5,11 +5,11 @@ First of all, thank you for hosting a tutorial through the Project Pythia Python
 
 To add your tutorial directory please follow these steps:
 
-### 1. Become a member of the ProjectPythiaTutorials GitHub organization
-If this is your first time hosting a tutorial through the Project Pythia Tutorial Seminar Series, you will need to be added as a member of the ProjectPythiaTutorials organization before you can create a new repository. Please let us know if you need to be invited to this organization by emailing `projectpythia@ucar.edu`.
+### 1. Become a member of the Project Pythia Tutorials GitHub organization
+If this is your first time hosting a tutorial through the Project Pythia Tutorial Seminar Series, you will need to be added as a member of the Project Pythia Tutorials organization before you can create a new repository. Please let us know if you need to be invited to this organization by emailing `projectpythia@ucar.edu`.
 
 ### 2. Create a unique tutorial repository from this template repository
-To create a new repository, go to the [ProjectPythiaTutorials organization](https://github.com/ProjectPythiaTutorials) page, and under "Repositories" select the green "New" button. The first option on the "Create a new repository" page asks whether you'd like to use a repository template. In the dropdown menu select "ProjectPythiaTutorials/tutorial-template" as the template.
+To create a new repository, go to the [Project Pythia Tutorials organization](https://github.com/ProjectPythiaTutorials) page, and under "Repositories" select the green "New" button. The first option on the "Create a new repository" page asks whether you'd like to use a repository template. In the dropdown menu select "ProjectPythiaTutorials/tutorial-template" as the template.
 
 Next you'll add your repository name. Use the naming convention `TOPIC_YYYY_MM_DD` (e.g. `pandas_2021_11_24`). If you have multiple tutorials in a series that build off of each other, please create **multiple repositories** that represent the state of the series at each lesson (e.g. `pandas_part1_2021_11_24` and `pandas_part2_2021_12_08`). 
 
