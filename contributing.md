@@ -11,9 +11,13 @@ If this is your first time hosting a tutorial through the Project Pythia Tutoria
 ### 2. Create a unique tutorial repository from this template repository
 To create a new repository, go to the [ProjectPythiaTutorials organization](https://github.com/ProjectPythiaTutorials) page, and under "Repositories" select the green "New" button. The first option on the "Create a new repository" page asks whether you'd like to use a repository template. In the dropdown menu select "ProjectPythiaTutorials/tutorial-template" as the template.
 
-Next you'll add your repository name. Use the naming convention `TOPIC_YYY_MM_DD` (e.g. `pandas_2021_11_24`). If you have multiple tutorials in a series that build off of each other, please create **multiple repositories** that represent the state of the series at each lesson (e.g. `pandas_part1_2021_11_24` and `pandas_part2_2021_12_08`). 
+Next you'll add your repository name. Use the naming convention `TOPIC_YYYY_MM_DD` (e.g. `pandas_2021_11_24`). If you have multiple tutorials in a series that build off of each other, please create **multiple repositories** that represent the state of the series at each lesson (e.g. `pandas_part1_2021_11_24` and `pandas_part2_2021_12_08`). 
 
-Add a brief description and set the repository to Public. Then you're all set to click the "Create R=repository" button.
+Add a brief description and set the repository to Public. Click the "Create repository" button.
+
+<kbd>
+  <img src="https://i.ibb.co/xzjgCBm/Screen-Shot-2021-11-23-at-8-43-43-AM.png">
+</kbd>
 
 ### 3. Review the tutorial notebook template (`/tutorial/template.ipynb`).
 The tutorial notebook template is designed to give you a brief overview of what is expected of a Project Pythia Tutorial seminar. We hope you find the template a useful reminder of good presentation ideas and bookendsl. It is not designed to be restrictive or time-consuming if you choose to adapt your material to it.
