@@ -36,4 +36,4 @@ You may also merge this new markdown content without waiting for an approval on 
 Every tutorial has environment file. Binder should be enabled from this file. Please check the `environment.yaml` file to make sure all of your necessary dependencies are listed.
 
 
-If you would like to host a tutorial through the Project Pythia Tutorial Seminar Series, please reach out to us here on GitHub or by emailing `projectpythia@ucar.edu`. Contributors Guide coming soon.
+If you would like to host a tutorial through the Project Pythia Tutorial Seminar Series, please reach out to us here on GitHub or by emailing `projectpythia@ucar.edu`.
