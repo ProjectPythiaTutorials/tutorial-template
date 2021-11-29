@@ -27,13 +27,15 @@ Add any relevant `.ipynb` files to the `/tutorials/` directory of your repositor
 
 Because we understand that you may be editing your notebook right up until your tutorial, the contribution "barrier for entry" in this repository is lower than elsewhere in the Pythia ecosystem. And since you will only be editing files in your new directory, feel free to push directly without waiting for a review.
 
-### 5. Create a `README.md` file associated with your tutorial directory.
+### 5. Check the repository-wide `environment.yaml` file.
+Every tutorial has environment file. Please check the `environment.yaml` file to make sure all of your necessary dependencies are listed.
+
+### 6. Set up Binder
+To set up Binder, navigate to [mybinder.org](https://mybinder.org/). In the "Build and launch a repository" GUI, past the URL link to your new tutorial repository. Binder will be enabled from your `environment.yaml` file. Then you can launch or copy the Binder link (to be posted in your repository 'README.md').
+
+### 7. Create a `README.md` file associated with your tutorial directory.
 Every tutorial repository is intended to be accompanied by a `README.md` markdown file. The contents of this file are similar to what should go out with an announcement of your seminar: title, speaker name, a brief speaker bio, live time and date, and any past tutorials that this new seminar is a continuation of. After the session a member of the Pythia team will embed the Youtube recording into this same file. Please see the `README_template.md` file for assistance (coming soon).
 
 You may also merge this new markdown content without waiting for an approval on your pull request.
-
-### 6. Check the repository-wide `environment.yaml` file.
-Every tutorial has environment file. Binder should be enabled from this file. Please check the `environment.yaml` file to make sure all of your necessary dependencies are listed.
-
 
 If you would like to host a tutorial through the Project Pythia Tutorial Seminar Series, please reach out to us here on GitHub or by emailing `projectpythia@ucar.edu`.
