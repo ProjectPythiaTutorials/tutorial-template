@@ -9,7 +9,7 @@ Thank you for contributing and presenting at a tutorial during the Project Pythi
 
 # [Tutorial Title]
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ProjectPythiaTutorials/ptutorial-template/HEAD/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ProjectPythiaTutorials/tutorial-template/HEAD/)
 
 The Project Pythia Python Tutorial Seminar Series continues with [Tutorial Title] on **Wednesday, [Month Day] at 1 PM Mountain [Daylight/Standard] Time**. This session will be led by [Name].
 
