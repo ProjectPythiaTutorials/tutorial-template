@@ -34,7 +34,7 @@ Every tutorial has environment file. Please check the `environment.yaml` file to
 To set up Binder, navigate to [mybinder.org](https://mybinder.org/). In the "Build and launch a repository" GUI, past the URL link to your new tutorial repository. Binder will be enabled from your `environment.yaml` file. Then you can launch or copy the Binder link (to be posted in your repository 'README.md').
 
 ### 7. Create a `README.md` file associated with your tutorial directory.
-Every tutorial repository is intended to be accompanied by a `README.md` markdown file. The contents of this file are similar to what should go out with an announcement of your seminar: title, speaker name, a brief speaker bio, live time and date, and any past tutorials that this new seminar is a continuation of. After the session a member of the Pythia team will embed the Youtube recording into this same file. Please see the `README_template.md` file for assistance (coming soon).
+Every tutorial repository is intended to be accompanied by a `README.md` markdown file. The contents of this file are similar to what should go out with an announcement of your seminar: title, speaker name, a brief speaker bio, live time and date, and any past tutorials that this new seminar is a continuation of. After the session a member of the Pythia team will embed the Youtube recording into this same file. Please see the `README_template.md` file for assistance.
 
 You may also merge this new markdown content without waiting for an approval on your pull request.
 
