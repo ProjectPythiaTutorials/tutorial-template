@@ -17,6 +17,10 @@ The content for this tutorial is hosted in the `.ipynb` notebook file(s) within 
 
 [Note: If this is a multiple session tutorial, please indicate that here. Each session of this tutorial will have its own repository within the ProjectPythiaTutorials organization.]
 
+## Pre-Requisites
+
+[Are there any pre-requisites for your intended tutorial audience? Please list them here.]
+
 
 ## Bio
 
@@ -31,11 +35,11 @@ You may also download the environment to run locally:
 
 - Check your conda install with `conda --version` and if necessary [install by following these instructions](https://docs.conda.io/en/latest/miniconda.html).
 
-- Clone this repository by running `git clone https://github.com/ProjectPythia/pythia-tutorials` in your terminal.
+- Clone this repository by running `git clone https://github.com/ProjectPythiaTutorials/[tutorial-template]` in your terminal.
 
-- Still in the terminal, create a Conda environment from the `environment.yml` file by first moving into the `pythia-tutorials` directory with `cd pythia-tutorials` and then `conda env update --file environment.yml`
+- Still in the terminal, create a Conda environment from the `environment.yml` file by first moving into the `[tutorial-template]` directory with `cd [tutorial-template]` and then `conda env update --file environment.yml`
 
-- Activate your environment in the terminal with `conda activate pythia-tutorials`.
+- Activate your environment in the terminal with `conda activate [tutorial-template]`.
 
 - Test your installation by launching JupyterLab with `jupyter lab`.
 
