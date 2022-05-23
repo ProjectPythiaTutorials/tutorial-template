@@ -4,14 +4,14 @@ date: [YYYY-MM-DD]
 tags: []
 ---
 
-Thank you for contributing and presenting at a tutorial during the Project Pythia Python Tutorial Seminar Series. Please replicate a `README.md` file similar to this in your tutorial repository. Please edit the content indicated by "[]" to include all relevant information. This template is designed to assist not hinder, you may make additional changes as you see fit. Please reach out to a Project Pythia team member if you need assistance.
+Thank you for contributing and presenting at a tutorial during the Project Pythia Python Tutorial Series. Please replicate a `README.md` file similar to this in your tutorial repository. Please edit the content indicated by "[]" to include all relevant information. This template is designed to assist not hinder, you may make additional changes as you see fit. Please reach out to a Project Pythia team member if you need assistance.
 
 
 # [Tutorial Title]
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ProjectPythiaTutorials/tutorial-template/HEAD/)
 
-The Project Pythia Python Tutorial Seminar Series continues with [Tutorial Title] on **Wednesday, [Month Day] at 1 PM Mountain [Daylight/Standard] Time**. This session will be led by [Name].
+The Project Pythia Python Tutorial Series continues with [Tutorial Title] on **Thursday, [Month Day] at 1 PM Mountain [Daylight/Standard] Time**. This session will be led by [Name].
 
 The content for this tutorial is hosted in the `.ipynb` notebook file(s) within the `tutorial` directory of this repository. The files include: [`topic_a.ipynb` and `topic_b.ipynb`].
 
@@ -52,7 +52,7 @@ To join the *learnpython@ucar.edu* Google Group, follow this [link](https://grou
 
 By attending this tutorial, you are subject to the [NCAR/UCAR Code of Conduct](https://www.ucar.edu/who-we-are/ethics-integrity/codes-conduct.)
 
-[Note: If it would be beneficial to review the related tutorials from this seminar series, please link to them here.]
+[Note: If it would be beneficial to review the related tutorials from this series, please link to them here.]
 
 
 ## Tutorial Recording
